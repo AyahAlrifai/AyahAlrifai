@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyahAlrifai
-- 👀 I’m interested in java,nodejs,js
-- 🌱 I’m currently learning socket and threads
-- 💞️ I’m looking to collaborate on ...
+-these are my latest projects
+https://covid-19-ayah.herokuapp.com/
+
 - 📫 How to reach me alrefayayah@gmail.com
 
 <!---
