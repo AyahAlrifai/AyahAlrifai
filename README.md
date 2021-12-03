@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyahAlrifai
--these are my latest projects
+- these are my latest projects
 - https://voterspoll.herokuapp.com/
 - https://covid-19-ayah.herokuapp.com/
 - https://itlabs.herokuapp.com/
@@ -7,6 +7,7 @@
 - https://todo-web-ayah.herokuapp.com/
 - https://trip-ayah.herokuapp.com/
 - https://socket-fives.herokuapp.com/
+- https://ayahalrifai.github.io/trains/index.html
 - https://ayahalrifai.github.io/TicTacToe/
 - https://ayahalrifai.github.io/EightPuzzle/
 - https://ayahalrifai.github.io/diceGame/
