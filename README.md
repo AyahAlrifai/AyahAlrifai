@@ -1,16 +1,8 @@
 - 👋 Hi, I’m @AyahAlrifai
-- these are my latest projects
-- https://voterspoll.herokuapp.com/
-- https://covid-19-ayah.herokuapp.com/
-- https://itlabs.herokuapp.com/
-- https://tms-nodejs-alrifai.herokuapp.com/
-- https://todo-web-ayah.herokuapp.com/
-- https://trip-ayah.herokuapp.com/
-- https://socket-fives.herokuapp.com/
-- https://ayahalrifai.github.io/trains/index.html
-- https://ayahalrifai.github.io/TicTacToe/
-- https://ayahalrifai.github.io/EightPuzzle/
-- https://ayahalrifai.github.io/diceGame/
+Experienced Software Developer with a demonstrated history of working in the Student information system and Child protection system. Skilled in java, Mysql Database, and OOP. Information technology professional with a Bachelor's degree in Computer Engineering from Jordan University of Science and Technology.
+
+I am highly organized, I can learn any new technology, work in a team or independently, and work under deadline pressure in a fast-paced environment footsteps, I have a high ability to solve problems, and good communication and interpersonal skills.
+
 - 📫 How to reach me alrefayayah@gmail.com
 
 <!---
