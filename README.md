@@ -43,10 +43,6 @@ I am highly organized, I can learn any new technology, work in a team or indepen
  ```
 
 ---
-
-I am highly organized, I can learn any new technology, work in a team or independently, and work under deadline pressure in a fast-paced 
-environment footsteps, I have a high ability to solve problems, and good communication and interpersonal skills.
-
  📫 How to reach me alrefayayah@gmail.com
 
 <!---
