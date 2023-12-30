@@ -5,7 +5,7 @@ Skilled in java, Mysql Database, and OOP. Information technology professional wi
 Jordan University of Science and Technology.
 
 I am highly organized, I can learn any new technology, work in a team or independently, and work under deadline pressure in a fast-paced 
-environment footsteps, I have a -high ability to solve problems, and good communication and interpersonal skills.
+environment footsteps, I have a high ability to solve problems, and good communication and interpersonal skills.
 
  📫 How to reach me alrefayayah@gmail.com
 
