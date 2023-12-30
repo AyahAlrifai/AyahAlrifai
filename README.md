@@ -42,6 +42,16 @@ I am highly organized, I can learn any new technology, work in a team or indepen
  languages and technologies (Java, Angular, Typescript, HTML, CSS).
  ```
 
+## Education
+- Jordan University of Science and Technology
+- Bachelor's degree Computer Engineering
+- 2015 - 2020
+- Excellent 3.93
+
+## Licenses & Certifications
+- Oracle Certified Associate, Java SE 8 Programmer
+- Issued Jan 2021
+
 ---
  📫 How to reach me alrefayayah@gmail.com
 
