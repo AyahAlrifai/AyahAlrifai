@@ -8,12 +8,12 @@ I am highly organized, I can learn any new technology, work in a team or indepen
 ## Experience
 ### Digitinary
 - Java Software Developer
-- Sep 2023 - Present 4 months
+- Sep 2023 - Present
 - Amman, Jordan
 
 ### BluLogix
 - Full Stack Developer
-- Dec 2022 - Sep 2023 10 months
+- Dec 2022 - Sep 2023
 - Amman, Jordan
  ```
  work on an E-commerce system, Managing broadbands, and describing the architecture of the APIs used in their system using the Swagger tool,
@@ -22,7 +22,7 @@ I am highly organized, I can learn any new technology, work in a team or indepen
 
 ### Second Step for Software Development
 - Software Developer
-- Oct 2020 - Dec 2022 2 years 3 months
+- Oct 2020 - Dec 2022
 - Irbid, Jordan
 
  ```
