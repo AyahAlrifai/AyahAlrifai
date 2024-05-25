@@ -11,6 +11,18 @@ I am highly organized, I can learn any new technology, work in a team or indepen
 - Sep 2023 - Present
 - Amman, Jordan
 
+```
+1.Engineered scalable notification microservices for dynamic/static content, multi-channel delivery & API integration. Enhanced user engagement through personalized notifications. Integrated RabbitMQ for seamless message queue handling. Optimized system for reliability & performance.
+
+2. I engineered a dynamic workflow service using Camunda, adaptable to any new process. It's designed to manage various workflows seamlessly. Implementing maker-checker and customer onboarding workflows, I ensured minimal code changes for integrating new workflows, optimizing efficiency.
+
+3. As part of the team, I played a key role in building an adapter that enables the application of Open Bank principles, facilitating transparent and accessible banking services.
+
+4. I worked in the licensing management.
+
+5. I worked in the profile settings management
+```
+
 ### BluLogix
 - Full Stack Developer
 - Dec 2022 - Sep 2023
